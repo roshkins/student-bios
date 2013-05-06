@@ -1,3 +1,5 @@
+###Bio
+
 Northwestern ‘13 undergrad, Economics major with strong Math background. 
 
 At 19, I started a company. Had a profitable beta – clients in >3 states, > 2 countries. - Participated in Dreamit Ventures Incubator (only team with founder in college)

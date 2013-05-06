@@ -1,4 +1,4 @@
-About me
+###Bio
 
 Hey there. I'm Peter, and I'm a software engineer from Australia. I studied finance as an undergrad, and I worked as a derivatives trader at Tibra Capital after graduation. I developed a strong interest in trading systems, and decided that I really wanted to work as a software engineer. 
 

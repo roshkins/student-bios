@@ -1,3 +1,5 @@
+###Bio
+
 I’m Nate -- I graduated from Stanford in 2010 with a B.A. in Russian Literature and I first decided that I wanted to learn how to program while I was doing marketing and content development for an educational software startup. I was originally attracted to web development because I wanted to tackle challenging and creative problems and build things that I could share with the world. Besides programming, I like to geek out about music technology/production, travel, UX and the sharing economy. Here are some things that are important than me:
 
   - Well-crafted and maintainable code

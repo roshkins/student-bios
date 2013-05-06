@@ -1,3 +1,5 @@
+###Bio
+
 I left college for two years to join GX Media, an online startup focused on video game media. I started as a freelance writer and worked up to become Editor-in-Chief of Firingsquad.com, their primary profit-generating publication. The site doesn't look like much now but it was on the same level as Anandtech and Tom's Hardware back then.
 
 During that time I learned about how to develop stories that would generate traffic. It's pretty easy to figure out after you notice that an XYZ motherboard review only generates 500 uniques while an [Insert unreleased version of Windows here] Gaming Performance Preview generates 50,000 uniques. I decided to return to school to finish my degree after we burned through our funding ($14 million, CMGI lead).     

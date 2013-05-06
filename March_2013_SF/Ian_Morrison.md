@@ -1,3 +1,5 @@
+###Bio
+
 I arrived at App Academy after falling in love with programming while living in Berlin. Like San Francisco, Berlin has a vibrant tech scene. I regularly attended tech Meetups as well as workshops and events at the Open Tech School. By attending these events, I was able to pick up HTML, CSS, Javascript, Processing, Ruby and Git. Simultaneously, I was making a lot of progress in online programming courses like Codeacademy and  Code School. After getting my feet wet, it was clear that I wanted become a full-time programmer, which lead me to apply to App Academy.  
 
 App Academy has taught me basic algorithms, data-structures, principles of object-oriented design, relational databases and web-technologies. We have not only learned how to use Rails, but have actually rebuilt our own versions of Active Record and Action Controller in order to grasp the underlying principles and design patterns.

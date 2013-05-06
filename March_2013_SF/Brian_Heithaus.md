@@ -1,4 +1,5 @@
-Bio
+###Bio
+
 Hi my name is Brian.
 I love creating.  I love learning.  I really love creating while pushing the boundaries of my knowledge and skills in technology.
 My first programming experience was with Pascal, in High School, and then OOP and Java.  I really loved the problem solving and building aspects of software development.

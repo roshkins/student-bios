@@ -1,3 +1,5 @@
+###Bio
+
 When I was a young teenager in the 90's, I first developed my interest in coding.  I started off by dabbling in web design.   At the time, there was a popular internet game called Dark Forces: Jedi Knight 2.  I was a cowebmaster on this site at the age of 13.  This stimulated further curiosity which I satisfied by learning scripting for MIRC.  
 
 I got involved in IRC because it was a great place to ask questions about coding html and javascript.  In my travels through the chat rooms I came across a very interesting place.  This room was dedicated to "kick bots".  Each user in the room was a bot that would attempt to take control of the room and kickban all other users while maintaining admin status.  This king of the hill competition really spurred me forward.  I did everything I could to streamline my code to run faster and more efficiently so that my bot could respond fast enough to win.

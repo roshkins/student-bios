@@ -1,4 +1,5 @@
-Bio
+###Bio
+
 After earning my B.A.* one year ago I quickly realized that most of the companies and organizations I was most interested in working for needed developers more than anything else, so I decided to become one. I began studying JavaScript on my own, then after a few months discovered and applied to App Academy. Over the course of the program I've fallen in love with Ruby and Rails (though I'm still interested in exploring the JavaScript ecosystem). I have been able to gain a sound understanding of large amount of material over the past 9 weeks and I want to work somwhere where I will be able to continue learning at the same pace.
 
 *Penn State, honors in anthropology, neuroscience minor

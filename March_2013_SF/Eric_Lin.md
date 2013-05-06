@@ -1,4 +1,5 @@
-Bio
+###Bio
+
 Hello! My name is Eric. I am a recent graduate from the University of Windsor with a Masters of Science in Statistics. While data analysis in academia is exciting and rewarding in its own way, I often found it difficult to show my results in a meaningful and understandable form. While searching for interactive graphing options, I discovered that a lot of them required coding knowledge. Fortunately, I quite enjoyed picking up coding and this led me to App Academy where I spent over 10 hours a day living and breathing code for nine weeks. 
 
 After App Academy, I feel confident in my ability to code in Ruby and Javascript and, more importantly, I am certain that I will be able to learn new technologies at a rapid pace.

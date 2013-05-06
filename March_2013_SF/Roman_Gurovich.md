@@ -1,3 +1,5 @@
+###Bio
+
 I like making stuff. In middle school, I scratched together games with Visual basic. These days I can be found building significantly more robust applications. After a degree in Psychology at UC Irvine and a six-year career in IT (analysis/QA/management), I’m glad to be writing code again. As an avid learner and avowed tinkerer, the ideal situation would involve full-stack development using newer technologies, fast iteration cycles, accountability, and opportunities for mentorship.
 
 I’m looking to join a team that follows at least 8 of the 12 measures on The Joel Test http://www.joelonsoftware.com/articles/fog0000000043.html

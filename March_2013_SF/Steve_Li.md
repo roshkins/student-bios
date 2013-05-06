@@ -1,4 +1,4 @@
-<< PHOTO >>
+###Bio
 
 I'm Steve and I'm a newly minted web application developer.  I arrived here by way of mathematics.  After graduating with a B.A. degree in math, I worked for a few years as an actuary before going back to school and earning a masters, also in math.  I did my thesis in discrete harmonic analysis, a field rich in theory as well as applications in signals processing.  While earning my masters, I worked as a MATLAB programmer on funded academic projects.  Using my math background, I came up with algorithms and conducted signals processing experiments in MATLAB.  My work led to a co-publication in the peer-reviewed Journal of the Acoustical Society of America but it also got me interested programming.  I decided to pursue software development as a career and the App Academy seemed like a perfect opportunity.
 

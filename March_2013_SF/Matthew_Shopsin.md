@@ -1,3 +1,5 @@
+###Bio
+
 I have been writing software professionally since I was 16 when I started writing data visualization code for NASA's Goddard Institute of Space Studies, which is a joint institute with Columbia University.  In that capacity I wrote tools for displaying atmospheric data and setting up climate models in Java, PHP, mysql, and several esoteric dbs.  During college I worked at an IBM facility that was working on the processor in the XBox360, in that capacity I created a private cloud based solution in Java that helped identify manufacturing defects, that was in use for at least five years.  After College I joined Intel and took part in their rotation engineering program that allowed me to rotate through several different groups and finally land in intel's storage technology group.  In that group I worked on a wide range of projects from block level drivers to a network file system.
 
 When the recession hit I decided to head for graduate school, where I had the opportunity to fill in some gaps in my knowledge regarding theory and work with a professor on a quantum computing project.

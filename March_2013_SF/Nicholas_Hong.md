@@ -1,4 +1,5 @@
-Bio
+###Bio
+
 Hacking makes me happy. Nothing makes me smile like building out beautiful, intuitive web apps. I enjoy every part of the process, from watching a backend feature snap in place to setting box-shadows and transitions in CSS.
 
 I studied Management and Biology at MIT. From there I spent time as a management consultant at Boston Consulting Group, leading a parking technology company near Duke University, and co-founding a SAT startup. I may be the only MIT graduate to have participated in a MMA cagefight.
