@@ -28,19 +28,19 @@ Features:
 * News Feed
 * Messaging / Chat ( Realtime )
 
-Skills:
+###Skills:
 * Ruby
 * SQL
 * Rails
-* ActiveRecord
+  * ActiveRecord
 * Custom Authentication and Devise
 * Integration with REST web APIs
 * Realtime through FAYE
 * HTML5 & CSS3
 * Bootstrap
 * Javascript
-* jQuery
-* AJAX
+  * jQuery
+  * AJAX
 * Backbone
 * RSpec
 * Git

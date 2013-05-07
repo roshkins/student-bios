@@ -1,3 +1,5 @@
+#James Yu
+
 ###Bio
 
 I left college for two years to join GX Media, an online startup focused on video game media. I started as a freelance writer and worked up to become Editor-in-Chief of Firingsquad.com, their primary profit-generating publication. The site doesn't look like much now but it was on the same level as Anandtech and Tom's Hardware back then.

@@ -1,3 +1,5 @@
+#Nicholas Hong
+
 ###Bio
 
 Hacking makes me happy. Nothing makes me smile like building out beautiful, intuitive web apps. I enjoy every part of the process, from watching a backend feature snap in place to setting box-shadows and transitions in CSS.
@@ -8,7 +10,7 @@ My goal: join a fast-paced company to hit the ground running, work balls-to-the-
 
 
 
-Projects
+###Capstone Project
 
 success-track.io
 
@@ -16,7 +18,14 @@ Goal tracker app. Single page app heavily using Backbone.js and Backbone Relatio
 
 
 
-Skills
+###Skills
 
-Ruby on Rails, Ruby, Javascript, jQuery, Backbone.js, AJAX, CSS, HTML 5 canvas
+* Ruby on Rails
+* Ruby
+* Javascript
+* jQuery
+* Backbone.js
+* AJAX
+* CSS
+* HTML 5 canvas
 

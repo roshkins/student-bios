@@ -1,3 +1,5 @@
+#Darwish Gani
+
 ###Bio
 
 Northwestern ‘13 undergrad, Economics major with strong Math background. 
@@ -18,7 +20,9 @@ I enjoy working with smart, motivated people to develop innovative products and 
 
 I am interested in both engineering and product management.  
 
-Capstone: Curated, Social News Reader 
+###Capstone
+
+Curated, Social News Reader 
 
 My project allows people to discover and share news from their friends. Every time a user reads or interacts with my site, my site curates articles accordingly. Users can subscribe to other users on my site, or to friends/followers on FB/Twitter. 
 
@@ -26,5 +30,12 @@ News articles are pulled from FB, Twitter and RSS Feeds that correspond to user 
 
 Users can also easily keep track of what they are reading even when they are not on my site using a bookmarklet. 
 
-Some of the tech: Rails API to Backbone front end, threaded requests + delayed jobs for API queries, customized share across social and email, Bookmarklet, Curating Algorithm for article interest, Twitter API, FB Graph API + FQL queries, Embedly API
+Some of the tech: 
+* Rails API to Backbone front end
+* threaded requests + delayed jobs for API queries 
+* customized share across social and email, Bookmarklet
+* Curating Algorithm for article interest
+* Twitter API
+* FB Graph API + FQL queries
+* Embedly API
  

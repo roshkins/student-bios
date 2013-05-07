@@ -1,3 +1,5 @@
+#Dale Knauss
+
 ###Bio
 
 Is your company looking for an eager junior developer to develop into a star performer?

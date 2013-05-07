@@ -1,3 +1,5 @@
+#Joshua Wilborn
+
 ###Bio
 
 When I was a young teenager in the 90's, I first developed my interest in coding.  I started off by dabbling in web design.   At the time, there was a popular internet game called Dark Forces: Jedi Knight 2.  I was a cowebmaster on this site at the age of 13.  This stimulated further curiosity which I satisfied by learning scripting for MIRC.  
@@ -13,7 +15,7 @@ The last couple of years I've been trying to readapt to civilian life and decide
 I'd like to work with people who are passionate about learning.  A place where I would stagnate and not gain new skills or find challenges, would not be my ideal workplace.  
 
 
-Capstone Project
+###Capstone Project
 
 When I attended the University of Oklahoma I was a member of the Omega Delta Phi Fraternity.  I noticed that when I moved away, it became hard to keep in touch with brothers and find brothers in my new location.  Because of this I decided to write "Brocator".  
 
@@ -21,43 +23,41 @@ The Brocator is a simple app to connect fraternities and their brothers.  Users 
 
 On this project I decided to focus on Rails and on my second project I plan to focus on JS Backbone.
 
-Skills
+###Skills
 
-Object Oriented Programming
+* Object Oriented Programming
+* ruby
+  * debugger
+  * rspec
 
-ruby
-  debugger
-  rspec
+* RAILS: 
+  * REST
+  * Custom Authentication
+  * OAUTH
+  * Devise
+  * API Construction/Integration/Interaction
+  * Nested Forms
+  * ActiveRecord
+  * Plethora of gems
 
-RAILS: 
+* Javascript:
+  * jQuery
+  * AJAX
+  * Underscore
+  * Backbone
 
-REST
-Custom Authentication
-OAUTH
-Devise
-API Construction/Integration/Interaction
-Nested Forms
-ActiveRecord
-Plethora of gems
+* HTML
+  * canvas
 
-Javascript:
-jQuery
-AJAX
-Underscore
-Backbone
-
-HTML
-  canvas
-
-css
-  bootstrap
+* css
+  * bootstrap
 
   
-git/github/heroku
+* git/github/heroku
 
-SQL
-C
+* SQL
+* C
 
-*nix systems
+* *nix systems
 
 
