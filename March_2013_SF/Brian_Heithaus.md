@@ -1,3 +1,5 @@
+#Brian Heithaus
+
 ###Bio
 
 Hi my name is Brian.
@@ -16,29 +18,31 @@ I have loved learning so much at a fairly quick pace.  Writing a full-stack web 
 Now that the program is nearing completion I am so excited to start looking for the right team to join!
 I am seeking a group where I can produce great code, contribute to and build projects that I am excited about, learn by doing, and work with cutting edge technologies.
 
-Capstone Projects: PVP Chess
+###Capstone Projects
+
+[PVP Chess](http://sheltered-brook-9041.herokuapp.com/)
 A chess game that can be played with friends or anyone from around the world.  Real-time play and Chat using Pusher API.  Devise and oAuth facebook login.
 
 Canvas rendering.  Bootstrap CSS Framework.  Its awesome!
 http://sheltered-brook-9041.herokuapp.com/
 
-Skills
-Ruby
-Javascript
-Backbone.js
-Node.js (basic)
-jQuery
-Canvas
-SQL
-Rails
-ActiveRecord
-Custom Authentication
-Integration with REST web APIs
-Devise and OAuth
-Heroku
-HTML5
-CSS3
-Bootstrap Framework
-RSpec
-Git
-Pascal (thats right)
+###Skills
+* Ruby
+* Javascript
+  * Backbone.js
+  * Node.js (basic)
+  * jQuery
+  * Canvas
+* SQL
+* Rails
+  * ActiveRecord
+  * Custom Authentication
+* Integration with REST web APIs
+* Devise and OAuth
+* Heroku
+* HTML5
+* CSS3
+* Bootstrap Framework
+* RSpec
+* Git
+* Pascal (thats right)
