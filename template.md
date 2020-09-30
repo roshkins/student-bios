@@ -10,7 +10,8 @@ I do a bunch of stuff Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsu
 
 ### Capstone Project(s)
 
-[Project1](http://www.example.com)  
+[Project1](http://www.example1
+.com)  
 [Project2](http://www.example2.com)
 
  Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
